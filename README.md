@@ -1,7 +1,9 @@
 # G_MenuTouche
 Menu Touche / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
-Discord : https://discord.gg/VpYP58ZjmD
+#### Discord : https://discord.gg/VpYP58ZjmD
+
+#### Preview : https://youtu.be/vSk1wGuB-HA
 
 -> Touche pour ouvrir le menu : F1 (par défaut)
 
