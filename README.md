@@ -3,7 +3,7 @@ Menu Touche / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : https://youtu.be/vSk1wGuB-HA
+#### Preview : https://streamable.com/8b5i8v
 
 -> Touche pour ouvrir le menu : F1 (par défaut)
 
